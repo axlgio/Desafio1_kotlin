@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Luxor Sheraton Hotel</string>
+    <string name="description">Es un complejo hotelero de cinco estrellas con magnificas vistas del Nilo. tiene dos psicinas una climatizada. Los precios de una habitación doble varian entre  50 y 100 dolares.</string>
+    <string name="reserva">RESERVAR</string>
+    <string name="sitio">VER SITIO WEB</string>
+    <string name="info">Informacion General</string>
+    <string name="name">Name</string>
+    <string name="apellido">Apellido</string>
+    <string name="reservacion">Reservación</string>
+    <string name="btn_confirmar">CONFIRMAR</string>
+
+</resources>
